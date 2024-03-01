@@ -1,0 +1,7 @@
+python self_train_main.py -method 'simclr'
+python self_train_main.py -method 'byol'
+python self_train_main.py -method 'simsiam'
+python self_train_main.py -method 'dcl'
+python self_train_main.py -method 'nnclr'
+python self_train_main.py -method 'moco'
+python self_train_main.py -method 'swav'
